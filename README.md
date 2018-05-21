@@ -6,4 +6,8 @@ This sentence also follows for the same reason.
 
 THIS IS FROM  TESTING BRANCH.
 
+
 THIS IS FROM MASTER BRANCH.
+
+THIS IS FROM TESTING CONFLICT BRANCH.
+
